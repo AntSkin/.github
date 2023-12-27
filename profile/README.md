@@ -14,6 +14,9 @@
 - 🚀 Winform上最阴影的阴影效果
 - 📦 无边框窗口，拥有原生窗口特性
 - 💎 3D翻转效果
+- 👚 主题配置
+- 🦜 SVG矢量图
+- 👓 DPI适配
 
 ### 🍭关于
 - [EVA-SS](https://github.com/EVA-SS) - GitHub 
