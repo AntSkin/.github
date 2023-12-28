@@ -30,7 +30,7 @@
 	<li>模仿对象 🔨 <a href="https://ant-design.antgroup.com/components/overview-cn">https://ant-design.antgroup.com/components/overview-cn</a></li>
 		<li>购买方式
 			<ul>
-				<li><a href="https://m.tb.cn/h.5hDwvdd?tk=mFcJW1yy7zs">闲鱼</a> 有支付宝保障的说</li>
+				<li><a href="https://m.tb.cn/h.5otVMhx?tk=2AoWWTjpPru">闲鱼</a> 有支付宝保障的说</li>
 				<li><a href="http://wpa.qq.com/msgrd?v=3&uin=17379620&site=qq&menu=yes">17379620</a> 加我QQ把</li>
 			</ul>
 		</li>
